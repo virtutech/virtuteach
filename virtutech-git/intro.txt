@@ -1,0 +1,15 @@
+# #100daysofcode VirtuTeach project
+# start on 20200101
+# undefined Python project with CI/CD pipeline
+# --Rules:
+### 1. Code a minimum of an hour every day for the next 100 days, in a row
+### 2. Tweet your progress every day with the #100daysofcode hashtag
+### 3. Log daily progress in forked Github project
+### 4. Encourage others who are doing the same challenge on Twitter or elsewhere 2X daily
+
+# --Hour breakdown
+### 30 hours: Learning and setting up a CI/CD pipeline in lab (LA)
+### 18 hours training: Intro to Python Development (LA)
+### 5 hours: Planning a Python project with Agile methodologies
+### 32 Hours: coding project with CI/CD pipeline
+### 15 Hours: QA testing of project and production deployment
